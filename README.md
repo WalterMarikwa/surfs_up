@@ -18,7 +18,7 @@ This research examines how Data Storage and retrieval may be used to efficiently
 
 Filtering the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June. And then convert those temperatures to a list, creating a DataFrame from the it and generating the summary statistics.
 
-![June Stats](Images/June.png)
+![June Stats](Images/june.png)
  
 ## Deliverable 2
 
@@ -26,7 +26,7 @@ Filtering the date column of the Measurements table in the hawaii.sqlite databas
 
 Filtering the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of December. And then convert those temperatures to a list, creating a DataFrame from the it and generating the summary statistics.
 
-![December Stats](Images/December.png)
+![December Stats](Images/december.png)
 
 # Results
 
