@@ -17,8 +17,6 @@ This research examines how Data Storage and retrieval may be used to efficiently
 ### Determine the Summary Statistics for June
 
 Filtering the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June. And then convert those temperatures to a list, creating a DataFrame from the it and generating the summary statistics.
-
-![June Stats](Images/june.png)
  
 ## Deliverable 2
 
@@ -26,9 +24,9 @@ Filtering the date column of the Measurements table in the hawaii.sqlite databas
 
 Filtering the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of December. And then convert those temperatures to a list, creating a DataFrame from the it and generating the summary statistics.
 
-![December Stats](Images/december.png)
-
 # Results
+
+![Stats](Images/both_temps.png)
 
   - The maximum temperature difference is 2°F, with June reaching 85°F and December at 83°F.
   - The mean temperature difference is 4°F, with June at 75°F and December at 71°F.
